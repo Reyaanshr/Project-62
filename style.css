@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.normal gallery {
+    background-color: aqua;
+}
+
+.slide {
+    height: 100px;
+    width: 100px;
+}
+
+.dream {
+    width: 120px;
+    height: 120px;
+}
